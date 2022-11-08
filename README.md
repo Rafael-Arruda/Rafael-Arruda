@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Rafael Arruda
 
 - 🔭 I'm currently studying Computer Science
-- 🌱 I’m currently learning Javascript and React JS
+- 🌱 I’m currently learning React JS and Typescript
 - 👯 I'm looking to collaborate in the free software community
 
 <div>
