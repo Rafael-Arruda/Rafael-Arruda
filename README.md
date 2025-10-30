@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Rafael Arruda
 
 - 🖥️ Desenvolvedor Front-end Web
-- 👨‍🎓 Graduando em Ciência da Computação
+- 👨‍🎓 Bacharel em Ciência da Computação
 - 🕰️ Estudando React Js e Php atualmente
 
 <div style="display: inline_block"><br>
